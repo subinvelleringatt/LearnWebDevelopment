@@ -1,0 +1,7 @@
+1.html boilerplate code - code template that can be reused
+2. <!DOCTYPE html> - tells browser what version of html is used
+3.<head> - holds information about webpage and tells browser how to handle the webpage
+
+4.<meta charset="utf-8" > - tells browser all text inside webpage is encoded using utf-8 encoding system.
+
+5.
